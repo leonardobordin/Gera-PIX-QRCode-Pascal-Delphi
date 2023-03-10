@@ -22,7 +22,7 @@ Essas informações foram tiradas do Manual De Padroes ParaIniciacao Do Pix do B
 
 # Gerador de PIX e QR Code
 
-![telainical](https://user-images.githubusercontent.com/83251822/140433174-95465e2e-2f27-4d4f-8870-3faca7e9ffaf.png)
+![GeraPix](https://user-images.githubusercontent.com/83251822/224440252-989f2aaa-32f1-4fa6-853f-f906d5262940.png)
 
 
 # Créditos
