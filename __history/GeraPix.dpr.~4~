@@ -1,0 +1,16 @@
+program GeraPix;
+uses
+  Vcl.Forms,
+  ACBrDelphiZXingQRCode in 'ACBrDelphiZXingQRCode.pas',
+  Vcl.Themes,
+  Vcl.Styles,
+  uFrmGeraPix in 'uFrmGeraPix.pas' {FrmGeraPix};
+
+{$R *.res}
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TFrmGeraPix, FrmGeraPix);
+  TStyleManager.TrySetStyle('Windows10');
+  Application.Run;
+end.

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/07/27 10:13:24.000.157,=C:\Users\leona\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/01 16:06:12.000.874,=C:\Users\leona\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/04 11:30:35.000.976,=C:\Users\leona\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/04 11:57:08.000.089,C:\Users\leona\Documents\GeraPIX\U_GeraPix.pas=C:\Users\leona\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/04 11:57:08.000.089,C:\Users\leona\Documents\GeraPIX\U_GeraPix.dfm=C:\Users\leona\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/11/04 11:58:26.000.186,C:\Users\leona\Documents\GeraPIX\GeraPix.dproj=C:\Users\leona\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/11/04 12:41:35.000.693,=C:\Users\leona\Documents\GeraPIX\ACBrDelphiZXingQRCode.pas</Transaction>
+    <Transaction>2023/02/13 23:44:40.000.919,=C:\Projetos\GitHub\Gera-PIX-QRCode-Pascal-Delphi-main\uFrmGeraPix.pas</Transaction>
+    <Transaction>2023/02/13 23:58:02.000.969,=C:\Projetos\GitHub\Gera-PIX-QRCode-Pascal-Delphi-main\Unit1.pas</Transaction>
+    <Transaction>2023/02/13 23:58:09.000.455,C:\Projetos\GitHub\Gera-PIX-QRCode-Pascal-Delphi-main\Unit1.pas=C:\Projetos\GitHub\Gera-PIX-QRCode-Pascal-Delphi-main\uClassePix.pas</Transaction>
+  </Transactions>
+</BorlandProject>

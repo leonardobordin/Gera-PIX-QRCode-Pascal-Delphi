@@ -1,0 +1,18 @@
+program GeraPix;
+
+uses
+  Vcl.Forms,
+  U_GeraPix in 'U_GeraPix.pas' {FrmGeraPix},
+  ACBrDelphiZXingQRCode in 'ACBrDelphiZXingQRCode.pas',
+  Vcl.Themes,
+  Vcl.Styles;
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  TStyleManager.TrySetStyle('Tablet Light');
+  Application.CreateForm(TFrmGeraPix, FrmGeraPix);
+  Application.Run;
+end.
